@@ -2,11 +2,18 @@
 
 This is a list of topics that we'll be covering in today's lecture. Feel free to write notes as needed.
 
+---
+
+# HTTP Review and CRUD
+
+---
+
 # What is Node.js?
 
 ## What is NPM?
 
 ### Node Modules
+### .gitignore
 ### NPM init -y
 ### package.json
 ### NPM install
@@ -14,15 +21,9 @@ This is a list of topics that we'll be covering in today's lecture. Feel free to
 
 ## Yarn
 
-## .gitignore
-
 ---
 
 # What is Express.js?
-
-## Servers & HTTP 
-
----
 
 # Setting up a basic server with Express.js
 
@@ -33,5 +34,5 @@ This is a list of topics that we'll be covering in today's lecture. Feel free to
 ## req.body
 
 ## req.params
-
+`
 ## Using a controller
