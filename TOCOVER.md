@@ -11,12 +11,11 @@ This is a list of topics that we'll be covering in today's lecture. Feel free to
 # What is Node.js?
 
 ## What is NPM?
-
+### NPM init -y
+### NPM install
 ### Node Modules
 ### .gitignore
-### NPM init -y
 ### package.json
-### NPM install
 ### package-lock.json
 
 ## Yarn
